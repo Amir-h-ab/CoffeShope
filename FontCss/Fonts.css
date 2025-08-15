@@ -49,11 +49,12 @@
     font-family: 'Morabba-Bold';
 }
 .background{
-    background: url("../public/img/headerBgDesktop.webp");
+    background: url("./public/img/headerBgDesktop.webp");
     width: 100%;
     height: 100%;
     background-size: initial;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+
 }
